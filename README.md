@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bednar/Underscore.js.png?branch=master)](https://travis-ci.org/bednar/Underscore.js) [Underscore.js](http://underscorejs.org)
+[![Build Status](https://api.travis-ci.org/bednar/Underscore.js.png?branch=master)](https://travis-ci.org/bednar/Underscore.js) [Underscore.js](http://underscorejs.org)
 ======
 
 ### Supported Versions
