@@ -1,11 +1,13 @@
-[![Build Status](https://api.travis-ci.org/bednar/Underscore.js.png?branch=master)](https://travis-ci.org/bednar/Underscore.js) [Underscore.js](http://underscorejs.org)
+[Underscore.js](http://underscorejs.org)
 ======
+[![Build Status](https://api.travis-ci.org/bednar/Underscore.js.png?branch=master)](https://travis-ci.org/bednar/Underscore.js)
 
 ### Supported Versions
 
 |   Underscore.js  |   Maven   |
 |:----------------:|:---------:|
 |       1.5.1      |   1.5.1   |
+|       1.5.2      |   1.5.2    |
 
 
 ### Dependency
@@ -13,7 +15,7 @@
     <dependency>
         <groupId>com.github.bednar</groupId>
         <artifactId>underscore.js</artifactId>
-        <version>1.5.1</version>
+        <version>1.5.2</version>
     </dependency>
 
 ### Reference in HTML
